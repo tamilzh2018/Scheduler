@@ -1,6 +1,6 @@
 # Sample Ant-based Java project
 
-This is an example of Java project with Ant build file with tomcat
+This is an example of Java project with Ant build file with tomcat version 8.5
 
 Run the following command in the project directory:
 
